@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/stev0241/MTM6330-Week-3#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "node-pre-gyp": "^0.12.0"
   }
 }
